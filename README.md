@@ -1,20 +1,26 @@
 # 02-stock-analysis
 
-**STOCK MARKET ANALYSIS**
+# **STOCK MARKET ANALYSIS**
 
 Green energy is an emerging market as the transition to alternative energy generation is accelerating; increasingly, investors' focus is turning to this market. The purpose of the project is analyse green energy stock market performance of 12 companies in 2017 and 2018, to understand whether or not to invest.
 
 As the stock market trades everyday, manage the size of this data manually will complicate the analysis, as part of the review an excel macro will be delivered to not only perform an analysis on the data set received, but also to be used in different years and different markets.
 
-**GREEN STOCK MARKET REVIEW**
+## **GREEN STOCK MARKET REVIEW**
 
 In 2017 and 2018, the 12 companies traded between 3.2 and 3.3 billion shares each year. However, when comparing the opening with the closing price, in 2017 most of the companies generated positive return, while in 2018 only two generated positive return.
 
+### ** Green stock market performance 2017 and 2018
 ![green_stock_performace_2017_2018](https://user-images.githubusercontent.com/88411170/131267945-e6df7173-2066-4e83-94ec-e2404e640f62.png)
 
+When reviewing in detail there are only 2 companies generating return; ENPH traded 222 million shares in 2017 with positive 129.5% return and 607 million shares in 2018, also positive return 81.9%, while RUN in 2017 traded 268 million shares with 5.5% positive return and in 2018, 503 million with positife return as well of 84.0%. Being both ENPH and RUN, the ones with the strongest and healthier portfolio as volumes are increasing as well as the returns.
 
-en comparing the price at the begining of the year to year-end. TERP was the only company
-green energy is an emerging market fosil get used up reliance on alternative enrgy productin
+On the other hand, DQ and HASI volume of shares traded incrase year-on-year, but the return decrease, being an indicator of their portfolio gathered streghten to the downside, being portfolios to keep an eye on.
+
+**
+
+
+
 
 
 <img width="273" alt="green_stocks_2017" src="https://user-images.githubusercontent.com/88411170/131267014-4f6f35b3-9513-46c1-9a6b-0cef391941df.png">
