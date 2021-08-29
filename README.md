@@ -10,9 +10,7 @@ As the stock market trades everyday, manage the size of this data manually will 
 
 In 2017 and 2018, the 12 companies traded between 3.2 and 3.3 billion shares each year. However, when comparing the opening with the closing price, in 2017 most of the companies generated positive return, while in 2018 only two generated positive return.
 
-![green_stocks_performance_2017](https://user-images.githubusercontent.com/88411170/131266981-ecc961fd-76cb-4e45-b369-cb463113d8cc.png)
-
-![green_stocks_performance_2018](https://user-images.githubusercontent.com/88411170/131266995-89bbca1a-a274-45e7-92fe-47a5ec9426cd.png)
+![green_stock_performace_2017_2018](https://user-images.githubusercontent.com/88411170/131267945-e6df7173-2066-4e83-94ec-e2404e640f62.png)
 
 
 en comparing the price at the begining of the year to year-end. TERP was the only company
