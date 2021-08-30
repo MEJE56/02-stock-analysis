@@ -27,10 +27,12 @@ Despite both macros are meeting the requirement of the client, the execution tim
 
 ##### **Macro performance
 <img width="273" alt="green_stocks_2017" src="https://user-images.githubusercontent.com/88411170/131267014-4f6f35b3-9513-46c1-9a6b-0cef391941df.png"> <img width="273" alt="green_stocks_2018" src="https://user-images.githubusercontent.com/88411170/131267029-0bbc00b9-19f9-42e4-999f-50a430e4ccf6.png">
+
 The macro tooked about 0.3s to process the data, which might sound not much time when thinking of bigger sets of data this might delayed the analysis.
 
 ##### **Refactored macro performance
 <img width="273" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/88411170/131267035-22112485-8d51-4691-94c5-b4ba70438916.png"> <img width="273" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/88411170/131267045-ae73fccb-92f0-4b93-83dd-4148c1d1b9d6.png">
+
 The refactored macro tooked 6 times less processing the data, around 0.05 seconds.
 
 At a first glance refactored VBA script improves the performance as it improves the performance as it reduces the time execution of the script by using standard set of code for standard can be faster, and can make easier understanding a code. However, when refactoring non standard set of code it can be dificult to program and to mantain, when switching code writer.
